@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-course",
+  "version": "1.0.0",
+  "description": "Here we are creating a course on tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "rsharma",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
