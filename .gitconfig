@@ -1,3 +1,5 @@
+#https://gist.github.com/pksunkara/988716
+
 [alias]
 	a = add --all
 	ai = add -i
